@@ -17,8 +17,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 150px;
-    aspect-ratio: 9/13;
 }
 
 .small {
