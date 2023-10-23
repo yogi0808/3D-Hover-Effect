@@ -62,7 +62,7 @@ body {
     border: 5px solid #ffffff80;
     box-shadow: 0 0 3rem 5rem rgba(0, 0, 0, .20);
     transform-origin: bottom center;
-    transition: all 1s cubic-bezier(.19, 1, .22, 1);
+    transition: all 1s cubic-bezier(.19, 1.22, .22, 1);
 }
 
 .bimg1 {
