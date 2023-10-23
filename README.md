@@ -1,5 +1,5 @@
-# 3D-Hover-Effect
-3d hover effect on multiple cards
+# Hover-Effect
+hover effect on multiple cards
 
 <h4>Screenshot of Effect</h4>
 
