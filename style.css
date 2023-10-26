@@ -66,26 +66,26 @@ body {
 }
 
 .bimg1 {
-    background-image: url('img/img1.avif');
+    background-image: url('img/img1.webp');
     transform: translate(-5px, -0px) rotate(8deg);
     z-index: 8;
 
 }
 
 .bimg2 {
-    background-image: url('img/img2.avif');
+    background-image: url('img/img2.webp');
     transform: translate(-10px, 2px) rotate(-2deg);
     z-index: 6;
 }
 
 .bimg3 {
-    background-image: url('img/img3.avif');
+    background-image: url('img/img3.webp');
     transform: translate(-6px, -10px) rotate(3deg);
     z-index: 4;
 }
 
 .bimg4 {
-    background-image: url('img/img4.avif');
+    background-image: url('img/img4.webp');
     transform: translate(-20px, -2px) rotate(-3deg);
     z-index: 2;
 }
