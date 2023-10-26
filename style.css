@@ -32,22 +32,22 @@ body {
 }
 
 .simg1 {
-    background-image: url('img/simg1.avif');
+    background-image: url('img/simg1.webp');
     z-index: 7;
 }
 
 .simg2 {
-    background-image: url('img/simg2.avif');
+    background-image: url('img/simg2.webp');
     z-index: 5;
 }
 
 .simg3 {
-    background-image: url('img/simg3.avif');
+    background-image: url('img/simg3.webp');
     z-index: 3;
 }
 
 .simg4 {
-    background-image: url('img/simg4.avif');
+    background-image: url('img/simg4.webp');
     z-index: 1;
 }
 
